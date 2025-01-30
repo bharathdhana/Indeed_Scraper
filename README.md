@@ -17,7 +17,7 @@ It gathers details like job title, company name, location, salary, and job descr
    pip install requests beautifulsoup4 pandas selenium fake-useragent openpyxl
    
 4. Download the appropriate webdriver for your browser and place it in your path, or specify its location in the script.
-5. Edit the scrap.py script to include the URL of the Amazon page you want to scrape.
+5. Edit the scrap.py script to include the URL of the Indeed page you want to scrape.
 6. Run the Script.
 
     python scrap.py
